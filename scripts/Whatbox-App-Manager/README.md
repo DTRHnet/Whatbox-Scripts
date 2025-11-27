@@ -1,5 +1,5 @@
 # **WHATBOX APP MANAGER**
-[!FZF TUI](https://dtrh.net/whatbox_app_manager.png)
+![FZF TUI](https://dtrh.net/whatbox_app_manager.png)
 
 
 ## **Overview**
