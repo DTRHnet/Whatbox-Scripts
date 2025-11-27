@@ -1,0 +1,33 @@
+# Cursor
+.cursor/logs/
+.cursor/cache/
+
+# Environment
+.env
+*.env
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Node (if applicable)
+node_modules/
+package-lock.json
+
+# Python (if applicable)
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Script-specific
+scripts/*/.env
+scripts/*/.cursor/logs/
+
+# Git
+.git/
